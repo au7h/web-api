@@ -1,0 +1,12 @@
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/bin/Debug/net6.0/Warehouse.Domain.deps.json
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/bin/Debug/net6.0/Warehouse.Domain.dll
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/bin/Debug/net6.0/Warehouse.Domain.pdb
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/Warehouse.Domain.csproj.AssemblyReference.cache
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/Warehouse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/Warehouse.Domain.AssemblyInfoInputs.cache
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/Warehouse.Domain.AssemblyInfo.cs
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/Warehouse.Domain.csproj.CoreCompileInputs.cache
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/Warehouse.Domain.dll
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/refint/Warehouse.Domain.dll
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/Warehouse.Domain.pdb
+/home/osboxes/Projects/web-api/src/Warehouse.Domain/obj/Debug/net6.0/ref/Warehouse.Domain.dll
